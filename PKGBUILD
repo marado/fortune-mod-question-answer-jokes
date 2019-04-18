@@ -7,7 +7,7 @@ arch=('any')
 url="http://stormdragon.tk/fortunes/question-answer-jokes"
 license=('WTFPL')
 depends=('fortune-mod')
-source=("$url")
+source=("question-answer-jokes")
 md5sums=('SKIP')
 
 build()
